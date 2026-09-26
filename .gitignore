@@ -1,0 +1,11 @@
+# TeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.bbl
+*.blg
+*.synctex.gz
