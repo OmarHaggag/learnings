@@ -9,3 +9,6 @@
 *.bbl
 *.blg
 *.synctex.gz
+
+# Compiled output: lives in pdf/ during build, released to ~/docs
+pdf/*.pdf
